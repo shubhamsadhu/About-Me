@@ -1,10 +1,10 @@
 # About Me
-I am shubham sadhu, & I am QA automation Engineer and also a developer,
+I am Software automation test Engineer.
 I like to explore new things related to IT.
 About MySkill Set
 1.Java 
 2.Selenium
-3.Dart
-4.Flutter
-5.Jenkin
-6.Manual Testing
+3.Jenkin
+4.Manual Testing
+5.JMeter
+6.API Testing
